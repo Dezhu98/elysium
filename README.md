@@ -1,6 +1,6 @@
 # Descrierea Aplicatiei
 
-## Proiect realizat impreuna cu Panaite Andra - Nicoleta
+_**Proiect realizat de Pandurita Gabriel si Panaite Andra - Nicoleta**_
 
 Video demo : https://www.youtube.com/watch?v=GIsiKEPk5kQ&ab_channel=D3zhu169
 
