@@ -1,5 +1,9 @@
 # Descrierea Aplicatiei
 
+## Proiect realizat impreuna cu Panaite Andra - Nicoleta
+
+Video demo : https://www.youtube.com/watch?v=GIsiKEPk5kQ&ab_channel=D3zhu169
+
 Aplicatia realizata are ca scop generarea unei partituri muzicale ce este construita in
 mod automat dupa prelucrarea sunetelor redate de utilizator. Dupa generarea partiturii, aceasta
 este afisata pe ecran si exista posibilitatea de a fi descarcata in format PDF. De asemenea, se
