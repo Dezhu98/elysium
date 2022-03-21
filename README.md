@@ -20,7 +20,7 @@ procesarea si interpretarea de sunet cat si gestiunea acestora), dar si pentru a
 functii MATLAB la nivel de server web, a fost utilizat produsul „MATLAB Production
 Server” de la MathWorks. Acesta accepta cereri (consecutive sau
 simultane) venite din partea aplicatiei client,fiind mereu pregatit sa trateze aceste cereri. In
-acest mod, timpul de executie total este redus foarte mult. Aplicatia client este realizata in
+acest mod, timpul de executie total este redus considerabil. Aplicatia client este realizata in
 Java, si face legatura intre aplicatia web(server-ul web) si server-ul MATLAB. Aceasta
 reprezinta o colectie de clase parametrizate, fiecare reprezentand o anumita functie MATLAB
 ce trebuie rulata pe server. Clasa este construita folosind parametrii de intrare ce vin din
