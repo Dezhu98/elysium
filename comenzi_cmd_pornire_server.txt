@@ -1,0 +1,2 @@
+1) cd C:\Program Files\MATLAB\MATLAB Production Server\R2019a\script
+2) mps-start -C D:\MatlabServer\matlabserver
